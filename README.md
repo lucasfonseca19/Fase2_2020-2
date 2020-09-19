@@ -1,3 +1,8 @@
+Integrantes = [   'Lucas Fonseca',
+    'Nicolas Byung Kwan Cho',
+    'Rafael Malcervelli' ]
+
+
 # Segunda Fase
 
 A Segunda Fase do processo seletivo da Talus será uma atividade em grupo conhecida como **Coding Dojo**. Nessa atividade, os membros de um grupo deverão alternar papéis para o desenvolvimento de uma atividade e serão supervisionados por pelo menos um membro da Talus, o qual será responsável por garantir a integridade do processo e dar as instruções necessárias para a atividade, bem como realizar o manejamento da troca de papéis.
